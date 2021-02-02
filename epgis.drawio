@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:19:06.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" version="14.2.9" etag="PD7i2lNGsYcebAy7gVRL" type="github"><diagram id="iK1JNANl543cffvOHE-5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:21:20.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="dQpEZAnq2dIadR-LhS_n" version="14.2.9" type="github">
+  <diagram id="iK1JNANl543cffvOHE-5" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tf6p8kC_SYKkrwxuWTqt-2" value="获取七参数计算样本点与验证点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="150" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tf6p8kC_SYKkrwxuWTqt-3" value="利用最小二乘法估计七参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tf6p8kC_SYKkrwxuWTqt-4" value="利用七参数结果转换验证点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
